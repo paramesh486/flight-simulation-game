@@ -18,3 +18,5 @@ AFRAME.registerComponent("game-play", {
     });
   },
 });
+
+//Tropius
